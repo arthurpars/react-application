@@ -5,6 +5,11 @@ exports[`App matches snapshot 1`] = `
   <div
     class="app"
   >
+    <h1
+      class="app-title"
+    >
+      My React App
+    </h1>
     <div
       class="greeting"
       data-testid="greeting"
@@ -14,7 +19,7 @@ exports[`App matches snapshot 1`] = `
       </h2>
       <p>
         Good 
-        afternoon
+        evening
         !
       </p>
     </div>

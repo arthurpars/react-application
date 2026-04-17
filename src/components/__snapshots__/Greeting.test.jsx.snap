@@ -11,7 +11,7 @@ exports[`Greeting matches snapshot 1`] = `
     </h2>
     <p>
       Good 
-      afternoon
+      evening
       !
     </p>
   </div>
