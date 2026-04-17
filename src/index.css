@@ -20,6 +20,13 @@ body {
   gap: 24px;
 }
 
+.app-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #1e1b4b;
+  text-align: center;
+}
+
 .greeting {
   background: #4f46e5;
   color: white;
