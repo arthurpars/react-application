@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Counter matches snapshot 1`] = `
+<div>
+  <div
+    class="counter"
+    data-testid="counter"
+  >
+    <p
+      data-testid="count-display"
+    >
+      Count: 
+      0
+    </p>
+    <button>
+      Increment
+    </button>
+    <button>
+      Decrement
+    </button>
+  </div>
+</div>
+`;

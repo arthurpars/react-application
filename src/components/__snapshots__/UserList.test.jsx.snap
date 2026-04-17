@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`UserList matches snapshot after loading 1`] = `
+<div>
+  <div
+    class="user-list"
+    data-testid="user-list"
+  >
+    <div
+      class="user-card"
+      data-testid="user-card"
+    >
+      <h3>
+        First Post
+      </h3>
+      <p>
+        Body one.
+      </p>
+    </div>
+    <div
+      class="user-card"
+      data-testid="user-card"
+    >
+      <h3>
+        Second Post
+      </h3>
+      <p>
+        Body two.
+      </p>
+    </div>
+    <div
+      class="pagination"
+    >
+      <button
+        disabled=""
+      >
+        Previous
+      </button>
+      <span
+        data-testid="page-number"
+      >
+        Page 
+        1
+      </span>
+      <button>
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+`;

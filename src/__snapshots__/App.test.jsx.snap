@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`App matches snapshot 1`] = `
+<div>
+  <div
+    class="app"
+  >
+    <div
+      class="greeting"
+      data-testid="greeting"
+    >
+      <h2>
+        Hello, World!
+      </h2>
+      <p>
+        Good 
+        afternoon
+        !
+      </p>
+    </div>
+    <div
+      class="counter"
+      data-testid="counter"
+    >
+      <p
+        data-testid="count-display"
+      >
+        Count: 
+        0
+      </p>
+      <button>
+        Increment
+      </button>
+      <button>
+        Decrement
+      </button>
+    </div>
+    <div
+      class="user-list"
+      data-testid="user-list"
+    >
+      <div
+        class="pagination"
+      >
+        <button
+          disabled=""
+        >
+          Previous
+        </button>
+        <span
+          data-testid="page-number"
+        >
+          Page 
+          1
+        </span>
+        <button>
+          Next
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

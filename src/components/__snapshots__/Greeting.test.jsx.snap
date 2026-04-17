@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Greeting matches snapshot 1`] = `
+<div>
+  <div
+    class="greeting"
+    data-testid="greeting"
+  >
+    <h2>
+      Hello, Alice!
+    </h2>
+    <p>
+      Good 
+      afternoon
+      !
+    </p>
+  </div>
+</div>
+`;

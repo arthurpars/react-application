@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`UserCard matches snapshot 1`] = `
+<div>
+  <div
+    class="user-card"
+    data-testid="user-card"
+  >
+    <h3>
+      My First Post
+    </h3>
+    <p>
+      This is the body.
+    </p>
+  </div>
+</div>
+`;
